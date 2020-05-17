@@ -1,1 +1,2 @@
 TOKEN="1148363226:AAGmWq5E2pIid0PLdFfbhQpkNCH0Jx_Oy4Y"
+DB_NAME="ramadan.sqlite"
